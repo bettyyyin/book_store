@@ -1,0 +1,62 @@
+[
+    {
+      "name": "The Whispering Shadows",
+      "price": 12.99,
+      "category": "Mystery",
+      "description": "A gripping mystery novel filled with suspense and unexpected twists."
+    },
+    {
+      "name": "The Art of Time Travel",
+      "price": 17.5,
+      "category": "Non-Fiction",
+      "description": "Explore the fascinating history of time travel theories and their impact on science and popular culture."
+    },
+    {
+      "name": "The Forgotten Prophecy",
+      "price": 9.99,
+      "category": "Fantasy",
+      "description": "Embark on an epic fantasy adventure as a young hero sets out to fulfill a forgotten prophecy and save the realm."
+    },
+    {
+      "name": "The Secret Garden",
+      "price": 8.75,
+      "category": "Children's",
+      "description": "Join a curious girl as she discovers a hidden magical garden and learns about friendship and the power of nature."
+    },
+    {
+      "name": "The Silent Observer",
+      "price": 14.99,
+      "category": "Thriller",
+      "description": "A chilling psychological thriller that keeps you on the edge of your seat with its dark secrets and unexpected turns."
+    },
+    {
+      "name": "The Science of Everything",
+      "price": 22.99,
+      "category": "Science",
+      "description": "Uncover the wonders of the universe through the lens of science, from microscopic particles to celestial bodies."
+    },
+    {
+      "name": "The Enchanted Forest",
+      "price": 11.25,
+      "category": "Children's",
+      "description": "Step into a magical world filled with talking animals, enchanted trees, and exciting adventures for young readers."
+    },
+    {
+      "name": "The Architect's Blueprint",
+      "price": 29.99,
+      "category": "Art",
+      "description": "Discover the visionary works of renowned architects and their groundbreaking designs that shape our cities."
+    },
+    {
+      "name": "The Lost Kingdom",
+      "price": 13.5,
+      "category": "Adventure",
+      "description": "Journey to a forgotten kingdom in search of ancient treasures and face thrilling challenges along the way."
+    },
+    {
+      "name": "The Culinary Chronicles",
+      "price": 19.99,
+      "category": "Cooking",
+      "description": "Indulge in a culinary journey with exquisite recipes, insightful stories, and expert techniques from top chefs."
+    }
+  ]
